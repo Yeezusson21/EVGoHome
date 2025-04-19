@@ -15,7 +15,7 @@ export default function MapLayout() {
         },
         headerTintColor: colors.text,
         headerTitleStyle: {
-          fontFamily: 'Poppins-SemiBold',
+          fontFamily: 'Inter-SemiBold',
         },
         contentStyle: {
           backgroundColor: colors.background,
